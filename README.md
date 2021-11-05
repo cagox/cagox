@@ -1,4 +1,9 @@
-### Hi there 👋
+### Cagox Media
+
+You have found us!
+
+This  is the Cagox Media GitHub account. There is not a lot in the Readme yet, but I will add more soon. This first commit is just about getting something in place.
+
 
 <!--
 **cagox/cagox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
