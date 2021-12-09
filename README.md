@@ -8,8 +8,12 @@ I will get more information up eventually, but for now, here is a list of Cagox 
 
 |Project Title|Description|
 |-------------|-----------|
-|lmc(https://github.com/cagox/lmc)|Little Man Machine implemented in C|
-|Tetris(https://github.com/cagox/tetris/)|C++ implementation using SDL2|
+|[lmc](https://github.com/cagox/lmc)|Little Man Machine implemented in C|
+|[Tetris](https://github.com/cagox/tetris/)|C++ implementation using SDL2|
+|[fluxspells](https://github.com/cagox/fluxspells)|(WIP)New Front end for spells.fluxrpg.net website.|
+|[fluxspellsapi](https://github.com/cagox/fluxspellsapi)|Backend API for FluxRPG spellbook.|
+|[config](https://github.com/cagox/config)|Simple golang configuration package.|
+
 
 
 
