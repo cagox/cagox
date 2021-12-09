@@ -8,9 +8,9 @@ I will get more information up eventually, but for now, here is a list of Cagox 
 
 
 
-## Projects of Interest
+## Repositories of Interest
 
-|Project Title|Description|
+|Repo Title|Description|
 |-------------|-----------|
 |[lmc](https://github.com/cagox/lmc)|Little Man Machine implemented in C|
 |[Tetris](https://github.com/cagox/tetris/)|C++ implementation using SDL2|
