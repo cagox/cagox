@@ -4,6 +4,10 @@ You have found us!
 
 I will get more information up eventually, but for now, here is a list of Cagox projects of interst.
 
+[My current active project](https://github.com/users/cagox/projects/1) is the rebuilding of the FluxRPG Spell Book website, located at http://spells.fluxrpg.net/. It is my goal to have the new version of the site deployed before the end of 2021. Once that is complete to an acceptable degree, I will move on to finishing my C++ Tetris implementation.
+
+
+
 ## Projects of Interest
 
 |Project Title|Description|
