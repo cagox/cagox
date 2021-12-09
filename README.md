@@ -6,6 +6,15 @@ I will get more information up eventually, but for now, here is a list of Cagox 
 
 ## Projects of Interest
 
+|Project Title|Description|
+|-------------|-----------|
+|lmc(https://github.com/cagox/lmc)|Little Man Machine implemented in C|
+|Tetris(https://github.com/cagox/tetris/)|C++ implementation using SDL2|
+
+
+
+
+
 
 <!--
 **cagox/cagox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
