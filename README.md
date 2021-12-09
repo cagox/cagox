@@ -1,8 +1,10 @@
-### Cagox Media
+# Cagox Media
 
 You have found us!
 
-This  is the Cagox Media GitHub account. There is not a lot in the Readme yet, but I will add more soon. This first commit is just about getting something in place.
+I will get more information up eventually, but for now, here is a list of Cagox projects of interst.
+
+## Projects of Interest
 
 
 <!--
