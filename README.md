@@ -10,10 +10,10 @@ I will get more information up eventually, but for now, here is a list of Cagox 
 
 ## Repositories of Interest
 
-|Repo Title|Description|Current Protjects|
-|-------------|-----------|--------------|
-|[lmc](https://github.com/cagox/lmc)|Little Man Machine implemented in C|[FluxRPG Spell Book Overhaul](https://github.com/users/cagox/projects/1)|
-|[Tetris](https://github.com/cagox/tetris/)|C++ implementation using SDL2|
+|Repo Title|Description|Current Protjects|Description|
+|-------------|-----------|--------------|-----------|
+|[lmc](https://github.com/cagox/lmc)|Little Man Machine implemented in C|[FluxRPG Spell Book Overhaul](https://github.com/users/cagox/projects/1)|Recreating spells.fluxrpg.net in Golang and React|
+|[Tetris](https://github.com/cagox/tetris/)|C++ implementation using SDL2|[Tetris Clone](https://github.com/users/cagox/projects/2/views/1)|A Tetris clone created in C++ using SDL2|
 |[fluxspells](https://github.com/cagox/fluxspells)|(WIP)New Front end for spells.fluxrpg.net website.|
 |[fluxspellsapi](https://github.com/cagox/fluxspellsapi)|Backend API for FluxRPG spellbook.|
 |[config](https://github.com/cagox/config)|Simple golang configuration package.|
